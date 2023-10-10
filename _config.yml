@@ -126,23 +126,23 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#48C9B0"
+navbar-text-col: "#117864"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
+link-col: "#117864"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "#48C9B0"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-link-col: "#117864"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/RIMG3101.JPG"
-footer-img: "/assets/img/footer.JPG"
+#navbar-img: "/assets/img/RIMG3101.JPG"
+#footer-img: "/assets/img/footer.JPG"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
