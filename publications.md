@@ -9,13 +9,13 @@ You can also browse my <a href="[https://scholar.google.co.in/citations?user=Z-7
 **2023**
 
 - **Cryptobenthic Cirripectes blennies in the Mascarene Archipelago sampled with ARMS**  
-  **Couëdel M**, Dettai A, Guillaume MMM, Bruggemann F, Bureau S, Frattini B, Verde Ferreira A, Azie JL, Bruggemann JH (2023).
-  New insights into the diversity of cryptobenthic *Cirripectes* blennies in the Mascarene Archipelago sampled using Autonomous Reef Monitoring Structures (ARMS).
-  *Ecology and Evolution*, 13(3), e9850.
+  **Couëdel M**, Dettai A, Guillaume MMM, Bruggemann F, Bureau S, Frattini B, Verde Ferreira A, Azie JL, Bruggemann JH (2023).  
+  New insights into the diversity of cryptobenthic *Cirripectes* blennies in the Mascarene Archipelago sampled using Autonomous Reef Monitoring Structures (ARMS).  
+  *Ecology and Evolution*, 13(3), e9850.  
   [Paper](https://doi.org/10.1002/ece3.9850){: .btn}
   [Code](https://github.com/Mcouedel/Couedel_etal2023_Cirripectes){: .btn} 
  
 
 - **Temporal replacement of cryptobenthic coral reef communities in ARMS**  
-  **Couëdel M**, Dettai A, Guillaume MMM, Bonillo C, Frattini B, Bruggemann JH.
-  Submited in *Scientific Reports*
+  **Couëdel M**, Dettai A, Guillaume MMM, Bonillo C, Frattini B, Bruggemann JH.  
+  Submited in *Scientific Reports*  
