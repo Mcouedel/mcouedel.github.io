@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: PhD in Marine Ecology
+title: Resume
+subtitle: Currently open to work
 ---
 
 ### EDUCATION
