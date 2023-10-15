@@ -24,8 +24,9 @@ navbar-links:
   Publications : "publications"
   Talks : "talks"
   Resume : "resume"
-  Photographies : "photos"
+  Photographies :
     - Test : "test"
+    - Test 2 : "test2"
 
 ################
 # --- Logo --- #
