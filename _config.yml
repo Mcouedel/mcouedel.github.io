@@ -25,7 +25,7 @@ navbar-links:
   Talks : "talks"
   Resume : "resume"
   Photographies : "photos"
-  Photographies/test : "test"
+  - Test : "test"
 
 ################
 # --- Logo --- #
