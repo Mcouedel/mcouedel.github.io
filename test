@@ -1,0 +1,19 @@
+---
+layout: page
+title: Marine life photographies
+subtitle: Marine life photographies
+use-site-title: fasle
+---
+/assets/img/RIMG3101.JPG"
+#footer-img: "/assets/img/footer.JPG"
+#page-img: "/assets/img/bgimage.png"
+
+<div class="myGallery">
+  <img src="/assets/img/RIMG3101.JPG" />
+  <img src="/assets/img/footer.JPG" />
+  <img src="/assets/img/bgimage.png" />
+  <div class="item">
+    <img src="/assets/img/RIMG3101.JPG" />
+    <span class="caption">This is an image caption for image 11</span>
+  </div>
+</div>
