@@ -10,7 +10,7 @@ You can also browse my <a href="[https://scholar.google.co.in/citations?user=Z-7
 
 - **Settlement patterns and temporal successions of coral reef cryptic communities affect diversity assessments using autonomous reef monitoring structures (ARMS).**  
   **Couëdel M**, Dettai A, Guillaume MMM, Bonillo C, Frattini B, Bruggemann JH (2024).  
-  *Scientific Reports*, 14(1).
+  *Scientific Reports*, 14(1).  
   [Paper](https://www.nature.com/articles/s41598-024-76834-8){: .btn}
   [Code](https://github.com/Mcouedel/ARMS_metabarcoding_temporal){: .btn} 
 
@@ -23,6 +23,3 @@ You can also browse my <a href="[https://scholar.google.co.in/citations?user=Z-7
   [Code](https://github.com/Mcouedel/Couedel_etal2023_Cirripectes){: .btn} 
  
 
-- **Temporal replacement of cryptobenthic coral reef communities in ARMS**  
-  **Couëdel M**, Dettai A, Guillaume MMM, Bonillo C, Frattini B, Bruggemann JH.  
-  Submited in *Scientific Reports*  
